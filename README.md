@@ -1,16 +1,28 @@
-### Hi there 👋
+ <div style="display: flex; flex-direction: row;">
+  <img align="center"  height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <h1>Jefferson Silva</h1>
+</div>
 
-<!--
-**jefferson-developer-it/jefferson-developer-it** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# About Me
+Hello, World!🖖 My name is Jefferson, i'm Brazilian, i love work whit JS/NodeJS e GoLang.
 
-Here are some ideas to get you started:
+## My Skills
+### I'm Work 
+```mermaid
+  graph TD;
+      JavaScript-->NodeJS-->Express-->Socket.io;
+      JavaScript-->Deno;
+      JavaScript-->TypeScript;
+      JavaScript-->React-->ReactNative;;
+      GoLang-->Fiber;
+```
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### I'm only a base
+```mermaid
+  graph TD;
+      Java-->JavaFx;
+      Python;
+      C++;
+      C;
+```
+
