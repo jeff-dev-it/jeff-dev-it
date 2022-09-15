@@ -7,7 +7,7 @@
 Hello, World!🖖 My name is Jefferson, i'm Brazilian, i love work whit JS/NodeJS e GoLang.
 
 ## My Skills
-### I'm Work 
+### I Work Whit 
 ```mermaid
   graph TD;
       JavaScript-->NodeJS-->Express-->Socket.io;
@@ -17,7 +17,7 @@ Hello, World!🖖 My name is Jefferson, i'm Brazilian, i love work whit JS/NodeJ
       GoLang-->Fiber;
 ```
 
-### I'm only a base
+### I'm have only a base
 ```mermaid
   graph TD;
       Java-->JavaFx;
